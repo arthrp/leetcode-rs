@@ -8,9 +8,11 @@ impl Solution {
             let pop = x % 10;
             x /= 10;
 
+            //Overflow
             if rev > i32::MAX / 10 || (rev == i32::MAX / 10 && pop > 7) {
                 return 0;
             }
+            //Underflow
             if rev < i32::MIN / 10 || (rev == i32::MIN / 10 && pop < -8) {
                 return 0;
             }
