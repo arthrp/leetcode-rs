@@ -6,6 +6,7 @@ mod reverse_integer_solution;
 mod longest_substr_no_repeat_solution;
 mod atoi;
 mod three_sum;
+mod merge_two_sorted_list;
 
 fn main() {
     println!("Hello, world!");
