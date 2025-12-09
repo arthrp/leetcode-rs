@@ -7,6 +7,7 @@ mod longest_substr_no_repeat_solution;
 mod atoi;
 mod three_sum;
 mod merge_two_sorted_list;
+mod most_water_container;
 
 fn main() {
     println!("Hello, world!");
