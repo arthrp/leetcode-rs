@@ -8,6 +8,8 @@ mod atoi;
 mod three_sum;
 mod merge_two_sorted_list;
 mod most_water_container;
+mod longest_common_prefix;
+
 
 fn main() {
     println!("Hello, world!");
