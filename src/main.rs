@@ -1,9 +1,9 @@
 #![allow(dead_code)]
-mod two_sum_solution;
-mod palindromic_substring_solution;
-mod zigzag_solution;
-mod reverse_integer_solution;
-mod longest_substr_no_repeat_solution;
+mod two_sum;
+mod palindromic_substring;
+mod zigzag;
+mod reverse_integer;
+mod longest_substr_no_repeat;
 mod atoi;
 mod three_sum;
 mod merge_two_sorted_list;
