@@ -10,6 +10,7 @@ mod merge_two_sorted_list;
 mod most_water_container;
 mod longest_common_prefix;
 mod substr_all_words;
+mod four_sum;
 
 
 fn main() {
