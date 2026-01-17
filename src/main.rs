@@ -13,6 +13,7 @@ mod longest_common_prefix;
 mod substr_all_words;
 mod four_sum;
 mod valid_sudoku;
+mod longest_valid_parentheses;
 
 
 fn main() {
