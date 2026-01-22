@@ -14,6 +14,7 @@ mod substr_all_words;
 mod four_sum;
 mod valid_sudoku;
 mod longest_valid_parentheses;
+mod combination_sum;
 
 
 fn main() {
