@@ -15,6 +15,7 @@ mod four_sum;
 mod valid_sudoku;
 mod longest_valid_parentheses;
 mod combination_sum;
+mod remove_nth_node;
 
 
 fn main() {
